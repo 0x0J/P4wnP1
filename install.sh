@@ -279,7 +279,7 @@ fi
 echo
 echo
 echo "===================================================================================="
-echo "If you came till here without errors, you shoud be good to go with your P4wnP1..."
+echo "If you came thus far without errors, you should be good to go with your P4wnP1..."
 echo "...if not - sorry, you're on your own, as this is work in progress"
 echo 
 echo "Attach P4wnP1 to a host and you should be able to SSH in with pi@172.16.0.1 (via RNDIS/CDC ECM)"
